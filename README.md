@@ -434,10 +434,10 @@
   
   <fieldset>
     <legend>Please select all that apply</legend>
-    <input type="checkbox" id="uniqueAnswer2" name="unique2" /><label for="uniqueAnswer2" correct="true">h2 is a selector</label><br />
+    <input type="checkbox" id="uniqueAnswer2" name="unique2" correct="true"/><label for="uniqueAnswer2" >h2 is a selector</label><br />
     <input type="checkbox" id="uniqueAnswer" name="unique"/><label for="uniqueAnswer">"red" is the name of a property</label><br />
-    <input type="checkbox" id="uniqueAnswer3" name="unique3" /><label for="uniqueAnswer3" correct="true">"color" is the name of a property</label><br />
-    <input type="checkbox" id="uniqueAnswer4" name="unique4" correct="true"/><label for="uniqueAnswer4" correct="true">"bold" is a value given to one of the properties</label><br />
+    <input type="checkbox" id="uniqueAnswer3" name="unique3" correct="true" /><label for="uniqueAnswer3" >"color" is the name of a property</label><br />
+    <input type="checkbox" id="uniqueAnswer4" name="unique4" correct="true"/><label for="uniqueAnswer4" >"bold" is a value given to one of the properties</label><br />
     <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">h2 is a declaration</label><br />
       <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">text-weight is a selector</label><br />
   
