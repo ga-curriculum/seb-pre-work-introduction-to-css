@@ -303,6 +303,12 @@
   ```
   
   **Pro tip**: Make sure to include punctuation, line breaks, and indentation! This makes your code more readable and ensures that it will run correctly.
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Our First CSS Rule" src="https://codepen.io/GAmarketing/embed/KKYNXMY?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/GAmarketing/pen/KKYNXMY">
+  Our First CSS Rule</a> by General Assembly (<a href="https://codepen.io/GAmarketing">@GAmarketing</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
   
   ---
   
@@ -515,6 +521,12 @@
   
   1. The `<h2>` should have the same styling as the `<h1>`.
   2. The `<p>` should be center-aligned and the font should be gray.
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Hannahs h2" src="https://codepen.io/GAmarketing/embed/oNOYGzZ?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/GAmarketing/pen/oNOYGzZ">
+  Hannahs h2</a> by General Assembly (<a href="https://codepen.io/GAmarketing">@GAmarketing</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
   
   ---
   
