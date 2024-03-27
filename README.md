@@ -7,6 +7,8 @@
   <p id="lesson-description">
     If HTML is the raw ingredients for your website, CSS is the recipe that determines how it’s all put together (and makes it look good in the process). In this lesson, we’ll learn what CSS is, why it’s useful, and how it works.
   </p>
+
+  ---
   
   <h5 id="topics-header" class="color-grey-500">Topics</h5>
   
