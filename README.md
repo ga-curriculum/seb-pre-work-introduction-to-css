@@ -288,12 +288,12 @@
   
   CSS can be added to a site in two ways:
   
-  By including a `<style>` tag in your HTML that contains CSS code. This is called _internal_ CSS, because we are going to set aside our CSS code within our HTML file.
-  In a separate CSS file that’s linked to your site with a `<link>` tag. This is called _external_ CSS, or an external style sheet.
+  By including a `style` tag in your HTML that contains CSS code. This is called _internal_ CSS, because we are going to set aside our CSS code within our HTML file.
+  In a separate CSS file that’s linked to your site with a `link` tag. This is called _external_ CSS, or an external style sheet.
   
   In most projects, it’s recommended to use separate CSS files linked to your HTML page. Keeping it separate will help you stay organized, especially when you start building large, complex pages with lots of HTML and CSS. 
   
-  In our project for Hannah, we’ll be adding our styling elements in the CSS panel of myGA’s code editor. We’ve taken care of linking the CSS and HTML, so all you have to do is code away — no need for `<style>` or `<link>` tags!
+  In our project for Hannah, we’ll be adding our styling elements in the CSS panel of myGA’s code editor. We’ve taken care of linking the CSS and HTML, so all you have to do is code away — no need for `style` or `link` tags!
   
   Let’s try giving Hannah’s website its first _CSS rule_. In your CodePen, add the following in the CSS panel:
   
