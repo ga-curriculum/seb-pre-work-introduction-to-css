@@ -32,7 +32,7 @@
     <li>Recognize the structure of CSS rules.</li>
   </ul>
   
-  ---
+---
   
   <h1 class="slide-header">Let's Get To Work</h1>
   
@@ -42,7 +42,7 @@
   
   ![link text](https://s3.amazonaws.com/ga-instruction/assets/intro-tech/css-unit-assets/lesson-2-starter.jpg)
   
-  ---
+---
   
   <h1 class="slide-header">Hannah's HTML</h1>
   
@@ -52,7 +52,7 @@
   
   ![link text](https://s3.amazonaws.com/ga-instruction/assets/intro-tech/css-unit-assets/lesson-5-final.jpg)
   
-  ---
+---
   
   
   <h1 class="slide-header">In the Beginning (of the Internet)</h1>
@@ -161,7 +161,7 @@
     </p>
   </details>
   
-  ---
+---
   
   <h1 class="slide-header">Knowledge Check</h1>
   
