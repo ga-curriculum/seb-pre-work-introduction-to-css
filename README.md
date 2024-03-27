@@ -7,8 +7,6 @@
   <p id="lesson-description">
     If HTML is the raw ingredients for your website, CSS is the recipe that determines how it’s all put together (and makes it look good in the process). In this lesson, we’ll learn what CSS is, why it’s useful, and how it works.
   </p>
-
-  ---
   
   <h5 id="topics-header" class="color-grey-500">Topics</h5>
   
@@ -22,7 +20,7 @@
   
   <a href="https://ga-create-api.s3.amazonaws.com/studyguides/html-meet-css-12491d.pdf" target="_blank" download="introduction_to_css_study_guide.pdf" class="ant-btn" data-trackable="true" data-track-category="study guide" data-track-section="lesson page" data-track-action="download study guide"><span role="img" class="anticon"><svg viewBox="0 0 16 16" width="1em" height="1em" fill="currentColor" aria-hidden="true" focusable="false" class=""><g class="download_svg__nc-icon-wrapper"><path d="M8 12c.3 0 .5-.1.7-.3L14.4 6 13 4.6l-4 4V0H7v8.6l-4-4L1.6 6l5.7 5.7c.2.2.4.3.7.3z"></path><path data-color="color-2" d="M1 14h14v2H1z"></path></g></svg></span><span> Download Study Guide</span></a>
   
-  ---
+---
   
   <h1 class="slide-header">Learning Objectives</h1>
   
@@ -306,7 +304,7 @@
   
   **Pro tip**: Make sure to include punctuation, line breaks, and indentation! This makes your code more readable and ensures that it will run correctly.
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Our First CSS Rule" src="https://codepen.io/GAmarketing/embed/KKYNXMY?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe   sandbox="allow-scripts allow-top-navigation allow-top-navigation-by-user-activation allow-forms allow-popups allow-same-origin"  height="400" style="width: 100%;" scrolling="no" title="Our First CSS Rule" src="https://codepen.io/GAmarketing/embed/KKYNXMY?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/GAmarketing/pen/KKYNXMY">
   Our First CSS Rule</a> by General Assembly (<a href="https://codepen.io/GAmarketing">@GAmarketing</a>)
   on <a href="https://codepen.io">CodePen</a>.
@@ -524,7 +522,7 @@
   1. The `<h2>` should have the same styling as the `<h1>`.
   2. The `<p>` should be center-aligned and the font should be gray.
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Hannahs h2" src="https://codepen.io/GAmarketing/embed/oNOYGzZ?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe   sandbox="allow-scripts allow-top-navigation allow-top-navigation-by-user-activation allow-forms allow-popups allow-same-origin"  height="400" style="width: 100%;" scrolling="no" title="Hannahs h2" src="https://codepen.io/GAmarketing/embed/oNOYGzZ?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/GAmarketing/pen/oNOYGzZ">
   Hannahs h2</a> by General Assembly (<a href="https://codepen.io/GAmarketing">@GAmarketing</a>)
   on <a href="https://codepen.io">CodePen</a>.
