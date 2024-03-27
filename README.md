@@ -179,7 +179,7 @@
   
   <button class="ant-btn ant-btn-primary multiple-choice-checkbox-submit">Submit Answer</button>
   
-  ---
+---
   
   <h1 class="slide-header">What Does CSS Actually Do?</h1>
   
@@ -280,7 +280,7 @@
       CSS provides “cascading” logic so that your HTML style rules work the way you want, no matter which browser you use. CSS rules cascade, or “fall gracefully,” as web browsers implement them in a logical, hierarchical manner. For example, CSS lets you prioritize different rules for different screen sizes. You can also use CSS to design backup rules so that if some of your styles don’t work, your content will still be displayed as you intended.</p>
   </details>
   
-  ---
+---
   
   <h1 class="slide-header">Our First CSS Rule</h1>
   
@@ -310,7 +310,7 @@
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
   
-  ---
+---
   
   <h1 class="slide-header">Using CSS to Style HTML</h1>
   
@@ -415,7 +415,7 @@
   A CSS declaration is broken into two parts: a property and a value. A “property” is any HTML element that you wish to style. A “value” is any particular style you wish to apply. Whenever we write CSS, we’ll use our declaration to define what HTML element should be changed and how to change it.
   </details>
   
-  ---
+---
   
   <h1 class="slide-header">Code Challenge</h1>
   
@@ -425,7 +425,7 @@
       on <a href="https://codepen.io">CodePen</a>.
     </iframe>
   
-  ---
+---
   
   <h1 class='slide-header'>Knowledge Check</h1>
   
@@ -447,7 +447,7 @@
     <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">h2 is a declaration</label><br />
       <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">text-weight is a selector</label><br />
   
-    ---
+---
   
     <h1 class='slide-header'>Adding Rules</h1>
   
@@ -472,7 +472,7 @@
   }
   ```
   
-  ---
+---
   
   <h1 class="slide-header">Knowledge Check</h1>
   
@@ -491,7 +491,7 @@
     With this CSS rule, the `<h3>` text would be yellow with a black background and would be aligned at the right side of the page.
   </details>
   
-  ---
+---
   
   <h1 class='slide-header'>Knowledge Check</h1>
   
@@ -511,7 +511,7 @@
   
   The `<p>` would end up with a red background, as that rule supersedes the earlier rule that gave it a blue background.
   
-  ---
+---
   
   <h1 class='slide-header'>Over to You</h1>
   
@@ -528,7 +528,7 @@
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
   
-  ---
+---
   
   <h1 class="slide-header">Conclusion</h1>
   
@@ -539,4 +539,4 @@
   * The <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer noopener">current CSS reference site</a> by W3.
   * <a href="https://css-tricks.com/guides/beginner/" target="_blank" rel="noreferrer noopener">CSS Tricks: Best Articles for Beginners</a>.
   
-  </textarea>
+</textarea>
