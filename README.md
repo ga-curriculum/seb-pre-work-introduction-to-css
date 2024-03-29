@@ -445,7 +445,10 @@
     <input type="checkbox" id="uniqueAnswer3" name="unique3" correct="true" /><label for="uniqueAnswer3" >"color" is the name of a property</label><br />
     <input type="checkbox" id="uniqueAnswer4" name="unique4" correct="true"/><label for="uniqueAnswer4" >"bold" is a value given to one of the properties</label><br />
     <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">h2 is a declaration</label><br />
-      <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">text-weight is a selector</label><br />
+    <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">text-weight is a selector</label><br />
+  </fieldset>
+  
+  <button class="ant-btn ant-btn-primary multiple-choice-checkbox-submit">Submit Answer</button>
   
 ---
   
@@ -488,12 +491,12 @@
   
   <details>
     <summary>Reveal Answer</summary>
-    With this CSS rule, the `<h3>` text would be yellow with a black background and would be aligned at the right side of the page.
+    With this CSS rule, the h3 text would be yellow with a black background and would be aligned at the right side of the page.
   </details>
   
 ---
   
-  <h1 class='slide-header'>Knowledge Check</h1>
+  <h1 class='slide-header'>Cascading Rules</h1>
   
   There’s one more important consideration with regard to adding rules in CSS. Remember how the “C” in CSS stands for “cascading”? That just means that CSS is read by your browser in a cascade from top to bottom. 
   
@@ -509,7 +512,7 @@
   }
   ```
   
-  The `<p>` would end up with a red background, as that rule supersedes the earlier rule that gave it a blue background.
+  The paragraph would end up with a red background, as that rule supersedes the earlier rule that gave it a blue background.
   
 ---
   
