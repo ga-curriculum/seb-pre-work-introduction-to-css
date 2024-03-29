@@ -184,7 +184,7 @@
   <h1 class="slide-header">What Does CSS Actually Do?</h1>
   
   <div class="wistia_embed wistia_async_5a1ifelknh wistia_embed_initialized" id="wistia-5a1ifelknh"
-    style="width: 100%; height: 50%;">
+    style="width: 100%; height: 90%;">
     <div id="wistia_chrome_23" class="w-chrome notranslate" tabindex="-1">
       <div id="wistia_grid_57_wrapper" style="display: block; width: 630px; height: 354.375px;">
         <div id="wistia_grid_57_above" style="height: 0px; font-size: 0px; line-height: 0px;"> </div>
@@ -315,7 +315,7 @@
   <h1 class="slide-header">Using CSS to Style HTML</h1>
   
   <div class="wistia_embed wistia_async_0bcgeyr6s0 wistia_embed_initialized" id="wistia-0bcgeyr6s0"
-    style="width: 100%; height: 50%;">
+    style="width: 100%; height: 90%;">
     <div id="wistia_chrome_23" class="w-chrome notranslate" tabindex="-1">
       <div id="wistia_grid_57_wrapper" style="display: block; width: 630px; height: 354.375px;">
         <div id="wistia_grid_57_above" style="height: 0px; font-size: 0px; line-height: 0px;"> </div>
