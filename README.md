@@ -417,16 +417,6 @@
   
 ---
   
-  <h1 class="slide-header">Code Challenge</h1>
-  
-  <iframe height="500" style="width: 100%;" scrolling="no" title="Code Challenge Test" src="https://codepen.io/Ryan-Brodsky/embed/VwNwXqq?default-tab=html%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-      See the Pen <a href="https://codepen.io/Ryan-Brodsky/pen/VwNwXqq">
-      Code Challenge Test</a> by Ryan Brodsky (<a href="https://codepen.io/Ryan-Brodsky">@Ryan-Brodsky</a>)
-      on <a href="https://codepen.io">CodePen</a>.
-    </iframe>
-  
----
-  
   <h1 class='slide-header'>Knowledge Check</h1>
   
   Match each part of the code snippet below with its proper definition. 
