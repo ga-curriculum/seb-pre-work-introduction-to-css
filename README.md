@@ -442,9 +442,9 @@
   
 ---
   
-    <h1 class='slide-header'>Adding Rules</h1>
+<h1 class='slide-header'>Adding Rules</h1>
   
-    As you style more elements of your HTML, you’ll add additional rules to your style sheet. If we wanted to style the `<h1>` and the `<p>`, for example, it would look like this:
+As you style more elements of your HTML, you’ll add additional rules to your style sheet. If we wanted to style the `<h1>` and the `<p>`, for example, it would look like this:
   
   ```css
   h1 {
