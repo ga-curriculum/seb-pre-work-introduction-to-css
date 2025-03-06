@@ -289,8 +289,8 @@ Which of the following functionalities are controlled by CSS?
   
 There are two main ways to add CSS to a website:
 
-- Internal CSS – This means writing CSS inside a `<style>` tag within your HTML file. Since the CSS is placed inside the same file as your content, it’s called _internal CSS_.
-- External CSS – This involves writing CSS in a separate file and linking it to your HTML using a `<link>` tag. This method is called _external CSS_, and it’s the most common approach for real-world projects.
+- **Internal CSS** – This means writing CSS inside a `<style>` tag within your HTML file. Since the CSS is placed inside the same file as your content, it’s called _internal CSS_.
+- **External CSS** – This involves writing CSS in a separate file and linking it to your HTML using a `<link>` tag. This method is called _external CSS_, and it’s the most common approach for real-world projects.
 
 **Why Use External CSS?**
 
