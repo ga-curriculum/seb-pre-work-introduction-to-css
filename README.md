@@ -604,14 +604,16 @@ A hex code is a way to represent colors in CSS using a six-character combination
 
 **Hex Codes Used in on Hannah's Site:**
 
-| Hex Code | Color Description                                             |
+<!-- | Hex Code | Color Description                                             |
 | -------- | ------------------------------------------------------------- |
 | #f4f4f4  | Light Gray                                                    |
 | #333333  | Dark Gray (text color)                                        |
 | #222222  | Very Dark Gray (almost black, used for the header and footer) |
 | #ffffff  | White (used for text in dark backgrounds)                     |
 | #444444  | Medium Dark Gray (used for navigation background)             |
-| #d35400  | Burnt Orange (used for highlighted text)                      |
+| #d35400  | Burnt Orange (used for highlighted text)                      | -->
+
+<img src="./assets/hex-colors.png" alt="Hannah's Website Hex Colors" style="width:700px;"/>
 
 ---
 
