@@ -40,7 +40,7 @@ As you practice CSS, you’ll be working with your first client—Hannah, a mura
 
 By the end of this unit, you’ll transform her site into something polished and professional. Who knows? With your skills, Hannah’s followers might start asking for your help, too!
 
-Here’s what her website looks like right now—it’s simple for now, but it has a lot of potential!
+Here’s what her website looks like right now—it’s simple, but it has a lot of potential!
 
 <img src="./assets/hannah-website-html.png" alt="Hannah's HTML only Website" style="width:800px;"/>
   
@@ -285,7 +285,7 @@ Which of the following functionalities are controlled by CSS?
   
 ---
   
-<h1 class="slide-header">Our First CSS Rule</h1>
+<h1 class="slide-header">Internal and External CSS</h1>
   
 There are two main ways to add CSS to a website:
 
@@ -298,7 +298,11 @@ Keeping CSS in a separate file helps keep your code organized, especially as you
 
 **How We’ll Apply CSS**
 
-For our project with Hannah, we’ll be adding styles in the CSS panel of the CodePen code editor. The connection between the HTML and CSS has already been set up for you, so you don’t need to worry about adding `<style>` or `<link>` tags—just focus on writing your CSS!
+For our project with Hannah, we’ll be adding styles in the **CSS panel** of the CodePen code editor. The connection between the HTML and CSS has already been set up for you, so you don’t need to worry about adding `<style>` or `<link>` tags—just focus on writing your CSS!
+
+---
+
+<h1 class="slide-header">Our First CSS Rule</h1>
 
 Now, let’s give Hannah’s website its first _CSS rule_.
 
