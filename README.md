@@ -465,7 +465,7 @@ CSS is made up of rules that tell the browser how to style elements on a webpage
     <input type="checkbox" id="uniqueAnswer3" name="unique3" correct="true" /><label for="uniqueAnswer3" >"color" is the name of a property</label><br />
     <input type="checkbox" id="uniqueAnswer4" name="unique4" correct="true"/><label for="uniqueAnswer4" >"bold" is a value given to one of the properties</label><br />
     <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">h2 is a declaration</label><br />
-    <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">text-weight is a selector</label><br />
+    <input type="checkbox" id="uniqueAnswer6" name="unique6" /><label for="uniqueAnswer6">text-weight is a selector</label><br />
   </fieldset>
   
   <button class="ant-btn ant-btn-primary multiple-choice-checkbox-submit">Submit Answer</button>
@@ -483,6 +483,7 @@ h1 {
   text-align: center;
   color: red;
 }
+
 p {
   background-color: blue;
 }
@@ -490,13 +491,12 @@ p {
 
 **Styling Multiple Elements at Once**
 
-Instead of writing separate rules, CSS allows you to apply the same styles to multiple elements in a single rule. To do this, list the selectors (element names) and separate them with a comma.
+Instead of writing separate rules, CSS also allows you to apply the same styles to multiple elements in a single rule. To do this, list the selectors (element names) and separate them with a comma.
 
 For example, if you want both an `<h1>` and `<p>` to have the same style, you would write:
 
 ```css
-h1,
-p {
+h1, p {
   text-align: center;
   color: red;
 }
@@ -539,11 +539,11 @@ The "C" in CSS stands for **Cascading**, which refers to how CSS rules are appli
 What does that mean in practice? Take a look at this example:
 
 ```css
-h1,
-p {
+h1, p {
   background-color: blue;
   text-align: center;
 }
+
 p {
   background-color: red;
 }
@@ -591,6 +591,8 @@ footer {
   Hannahs h2</a> by General Assembly (<a href="https://codepen.io/GAmarketing">@GAmarketing</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
+
+**Tip** If your tests still fail after adding your style code, try hitting the **"Rerun"** button on CodePen to ensure all styles are applied before selecting **View Test Results**. 
   
 ---
 
