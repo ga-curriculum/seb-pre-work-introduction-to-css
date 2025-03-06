@@ -306,7 +306,7 @@ For our project with Hannah, we’ll be adding styles in the **CSS panel** of th
 
 Now, let’s give Hannah’s website its first _CSS rule_.
 
-**1. In your CodePen, add the following code in the **CSS** panel:**
+**1. In your CodePen, add the following code in the `CSS` panel:**
 
 ```css
 header {
