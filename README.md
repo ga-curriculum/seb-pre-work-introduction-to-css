@@ -1,4 +1,4 @@
-<!-- <textarea id="source"> -->
+<textarea id="source">
 
 <h1 class="slide-header">Introduction to CSS</h1>
 
@@ -306,8 +306,8 @@ Now, let’s give Hannah’s website its first _CSS rule_.
 
 ```css
 header {
-  background-color: black;
-  color: white;
+  background-color: #222222;
+  color: #ffffff;
 }
 ```
 
@@ -551,23 +551,64 @@ Understanding how CSS rules cascade is important because it helps you control wh
 
 ---
 
-  <h1 class='slide-header'>Over to You</h1>
-  
-  Let’s get to work on Hannah’s website! 
-  
-  In the CSS panel, add these styles:
-  
-  1. The `<h2>` should have the same styling as the `<h1>`.
-  2. The `<p>` should be center-aligned and the font should be gray.
+<h1 class='slide-header'>Let's add some style!</h1>
 
-<iframe   sandbox="allow-scripts allow-top-navigation allow-top-navigation-by-user-activation allow-forms allow-popups allow-same-origin"  height="400" style="width: 100%;" scrolling="no" title="Hannahs h2" src="https://codepen.io/GAmarketing/embed/oNOYGzZ?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/GAmarketing/pen/oNOYGzZ">
+Let’s get to work on Hannah’s website!
+
+**1. Style the `<body>`: Set the background color to light gray, the text color to dark gray, and align all text to the center.**
+
+```css
+body {
+  background-color: #f4f4f4;
+  color: #333333;
+  text-align: center;
+}
+```
+
+**2. Style the `<nav>`: Give the navigation bar a dark gray background.**
+
+```css
+nav {
+  background-color: #444444;
+}
+```
+
+**3. Style the `<footer>`: Apply the same background and text color as the `<h1>`, using a very dark gray background and white text.**
+
+```css
+footer {
+  background-color: #222222;
+  color: #ffffff;
+}
+```
+
+<iframe   sandbox="allow-scripts allow-top-navigation allow-top-navigation-by-user-activation allow-forms allow-popups allow-same-origin"  height="400" style="width: 100%;" scrolling="no" title="Hannahs h2" src="https://codepen.io/GAmarketing/embed/mydweZp?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/GAmarketing/pen/mydweZp">
   Hannahs h2</a> by General Assembly (<a href="https://codepen.io/GAmarketing">@GAmarketing</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
   
 ---
-  
+
+<h1 class='slide-header'>What is a Hex Code?</h1>
+
+By now you've probably noticed the odd 6 digit color codes used to apply color to our elements. These are called **Hexidecimal** or **_Hex_** codes.
+
+A hex code is a way to represent colors in CSS using a six-character combination of numbers and letters. It always starts with a `#` followed by three pairs of values that define the amount of **red**, **green**, and **blue** (RGB) in the color. For example,`#ffffff` represents white, while `#000000` represents black.
+
+**Hex Codes Used in on Hannah's Site:**
+
+| Hex Code | Color Description                                             |
+| -------- | ------------------------------------------------------------- |
+| #f4f4f4  | Light Gray                                                    |
+| #333333  | Dark Gray (text color)                                        |
+| #222222  | Very Dark Gray (almost black, used for the header and footer) |
+| #ffffff  | White (used for text in dark backgrounds)                     |
+| #444444  | Medium Dark Gray (used for navigation background)             |
+| #d35400  | Burnt Orange (used for highlighted text)                      |
+
+---
+
 <h1 class="slide-header">Conclusion</h1>
 
 Interested in learning more about CSS? Check out the following resources:
@@ -577,4 +618,4 @@ Interested in learning more about CSS? Check out the following resources:
 - The <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer noopener">current CSS reference site</a> by W3.
 - <a href="https://css-tricks.com/guides/beginner/" target="_blank" rel="noreferrer noopener">CSS Tricks: Best Articles for Beginners</a>.
 
-<!-- </textarea> -->
+</textarea>
