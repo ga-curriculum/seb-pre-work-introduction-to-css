@@ -488,7 +488,7 @@ p {
 
 Instead of writing separate rules, CSS allows you to apply the same styles to multiple elements in a single rule. To do this, list the selectors (element names) and separate them with a comma.
 
-For example, if you want both the `<h1>` and `<p>` elements to have the same style, you would write:
+For example, if you want both an `<h1>` and `<p>` to have the same style, you would write:
 
 ```css
 h1,
@@ -573,7 +573,7 @@ nav {
 }
 ```
 
-**3. Style the `<footer>`: Apply the same background and text color as the `<h1>`, using a very dark gray background and white text.**
+**3. Style the `<footer>`: Apply the same background and text color as the `<header>`, using a very dark gray background and white text.**
 
 ```css
 footer {
