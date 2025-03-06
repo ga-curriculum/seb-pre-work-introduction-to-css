@@ -447,31 +447,31 @@ CSS is made up of rules that tell the browser how to style elements on a webpage
 
 ---
 
-  <h1 class='slide-header'>Knowledge Check</h1>
-  
-  Match each part of the code snippet below with its proper definition. 
-  
-  ```css
-  h2 {
-    text-weight: bold;
-    color: red;
-  }
-  ```
-  
-  <fieldset>
-    <legend>Please select all that apply</legend>
-    <input type="checkbox" id="uniqueAnswer2" name="unique2" correct="true"/><label for="uniqueAnswer2" >h2 is a selector</label><br />
-    <input type="checkbox" id="uniqueAnswer" name="unique"/><label for="uniqueAnswer">"red" is the name of a property</label><br />
-    <input type="checkbox" id="uniqueAnswer3" name="unique3" correct="true" /><label for="uniqueAnswer3" >"color" is the name of a property</label><br />
-    <input type="checkbox" id="uniqueAnswer4" name="unique4" correct="true"/><label for="uniqueAnswer4" >"bold" is a value given to one of the properties</label><br />
-    <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">h2 is a declaration</label><br />
-    <input type="checkbox" id="uniqueAnswer6" name="unique6" /><label for="uniqueAnswer6">text-weight is a selector</label><br />
-  </fieldset>
-  
-  <button class="ant-btn ant-btn-primary multiple-choice-checkbox-submit">Submit Answer</button>
-  
+<h1 class='slide-header'>Knowledge Check</h1>
+
+Match each part of the code snippet below with its proper definition.
+
+```css
+h2 {
+  text-weight: bold;
+  color: red;
+}
+```
+
+<fieldset>
+  <legend>Please select all that apply</legend>
+  <input type="checkbox" id="uniqueAnswer2" name="unique2" correct="true"/><label for="uniqueAnswer2" >h2 is a selector</label><br />
+  <input type="checkbox" id="uniqueAnswer" name="unique"/><label for="uniqueAnswer">"red" is the name of a property</label><br />
+  <input type="checkbox" id="uniqueAnswer3" name="unique3" correct="true" /><label for="uniqueAnswer3" >"color" is the name of a property</label><br />
+  <input type="checkbox" id="uniqueAnswer4" name="unique4" correct="true"/><label for="uniqueAnswer4" >"bold" is a value given to one of the properties</label><br />
+  <input type="checkbox" id="uniqueAnswer5" name="unique5" /><label for="uniqueAnswer5">h2 is a declaration</label><br />
+  <input type="checkbox" id="uniqueAnswer6" name="unique6" /><label for="uniqueAnswer6">text-weight is a selector</label><br />
+</fieldset>
+
+<button class="ant-btn ant-btn-primary multiple-choice-checkbox-submit">Submit Answer</button>
+
 ---
-  
+
 <h1 class='slide-header'>Adding Rules</h1>
 
 As you add more styles to your webpage, you’ll need multiple CSS rules to target different elements. Each rule applies specific styles to a selected element.
@@ -592,8 +592,8 @@ footer {
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
-**Tip** If your tests still fail after adding your style code, try hitting the **"Rerun"** button on CodePen to ensure all styles are applied before selecting **View Test Results**. 
-  
+**Tip** If your tests still fail after adding your style code, try hitting the **"Rerun"** button on CodePen to ensure all styles are applied before selecting **View Test Results**.
+
 ---
 
 <h1 class='slide-header'>What is a Hex Code?</h1>
