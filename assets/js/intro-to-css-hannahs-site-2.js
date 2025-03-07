@@ -40,7 +40,7 @@ describe('The nav styling', function () {
 });
 
 describe('The footer styling', function () {
-  it('should have a very dark gray background color and white text', function () {
+  it('should have a very dark gray background color', function () {
     const footer = document.querySelector('footer');
 
     if (!footer) {
@@ -53,11 +53,6 @@ describe('The footer styling', function () {
       expect(computedStyle.backgroundColor).toBe(
         'rgb(34, 34, 34)',
         'The footer background color should be #222222 (rgb(34, 34, 34)).'
-      );
-
-      expect(computedStyle.color).toBe(
-        'rgb(255, 255, 255)',
-        'The footer text color should be #ffffff (rgb(255, 255, 255)).'
       );
     }
   });

@@ -577,12 +577,11 @@ nav {
 }
 ```
 
-**3. Style the `<footer>`: Apply the same background and text color as the `<header>`, using a very dark gray background and white text.**
+**3. Style the `<footer>`: Apply the same background color as the `<header>`, using a very dark gray background.**
 
 ```css
 footer {
   background-color: #222222;
-  color: #ffffff;
 }
 ```
 
