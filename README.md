@@ -323,10 +323,10 @@ Make sure to include all punctuation, line breaks, and indentation! This makes y
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
-**TIP** If your tests still fail after adding your style code, try hitting the **"Rerun"** button on CodePen to ensure all styles are applied before selecting **View Test Results**.
-  
+<small><strong>TIP:</strong> After updating your code, click the <strong>"Run"</strong> or <strong>"Rerun"</strong> button in CodePen to make sure your changes take effect. Then, check <strong>View Test Results</strong> to see if your updates pass!</small>
+
 ---
-  
+
 <h1 class="slide-header">Using CSS to Style HTML</h1>
 
 <div class="wistia_embed wistia_async_0bcgeyr6s0 wistia_embed_initialized" id="wistia-0bcgeyr6s0"
@@ -498,7 +498,8 @@ Instead of writing separate rules, CSS also allows you to apply the same styles 
 For example, if you want both an `<h1>` and `<p>` to have the same style, you would write:
 
 ```css
-h1, p {
+h1,
+p {
   text-align: center;
   color: red;
 }
@@ -541,7 +542,8 @@ The "C" in CSS stands for **Cascading**, which refers to how CSS rules are appli
 What does that mean in practice? Take a look at this example:
 
 ```css
-h1, p {
+h1,
+p {
   background-color: blue;
   text-align: center;
 }
@@ -593,7 +595,7 @@ footer {
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
-**TIP** If your tests still fail after adding your style code, try hitting the **"Rerun"** button on CodePen to ensure all styles are applied before selecting **View Test Results**.
+<small><strong>TIP:</strong> After updating your code, click the <strong>"Run"</strong> or <strong>"Rerun"</strong> button in CodePen to make sure your changes take effect. Then, check <strong>View Test Results</strong> to see if your updates pass!</small>
 
 ---
 
